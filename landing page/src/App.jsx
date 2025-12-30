@@ -47,7 +47,7 @@ const App = () => {
     <div>
       
       <Section1 users={users} />
-      <Section2 />
+      
       
     </div>
   )
