@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Chrome, Edge, Safari */
+#btn::-webkit-scrollbar {
+  display: none;
+}
+
+/* Firefox */
+#btn {
+  scrollbar-width: none;
+}
